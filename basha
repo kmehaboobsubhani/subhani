@@ -13,3 +13,6 @@ sudo mv /opt/terraform/terraform /usr/bin/
 
 
 terraform -version
+
+
+https://www.youtube.com/watch?v=KKz7P2pF7o8
